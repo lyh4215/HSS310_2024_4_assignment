@@ -2,11 +2,11 @@
 
 - HSS310 경제학특강 과제 관련 내용입니다.
 
-## data analysis.xlsx
+### data analysis.xlsx
 
 - 수집한 모든 데이터와 표들이 기록된 파일입니다. sheet 별로 각 데이터 관련 확인 가능합니다.
 
-## main.py
+### main.py
 
 - 셀레니움 이용하여 review를 수집한 프로그램입니다.
 
